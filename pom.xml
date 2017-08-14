@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Chapter_02/stereoAutoconfig</module>
+        <module>Chapter_04/springAOP</module>
     </modules>
 
     <dependencies>

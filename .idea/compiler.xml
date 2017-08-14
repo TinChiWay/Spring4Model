@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springAOP" />
         <module name="stereoAutoconfig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring4Model" target="1.5" />
+      <module name="springAOP" target="1.5" />
       <module name="stereoAutoconfig" target="1.5" />
     </bytecodeTargetLevel>
   </component>
