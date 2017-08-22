@@ -11,6 +11,10 @@
     <modules>
         <module>Chapter_02/stereoAutoconfig</module>
         <module>Chapter_04/springAOP</module>
+        <module>seckill</module>
+        <module>seckill</module>
+        <module>seckill</module>
+        <module>seckill</module>
     </modules>
 
     <dependencies>
